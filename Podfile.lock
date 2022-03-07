@@ -1,0 +1,21 @@
+PODS:
+  - WeatherPackage (0.0.1)
+
+DEPENDENCIES:
+  - WeatherPackage (from `https://github.com/dalvishital/WeatherPackage.git`)
+
+EXTERNAL SOURCES:
+  WeatherPackage:
+    :git: https://github.com/dalvishital/WeatherPackage.git
+
+CHECKOUT OPTIONS:
+  WeatherPackage:
+    :commit: 73b6455fa2e45dd394a2de8ab8679cc2f92c82a9
+    :git: https://github.com/dalvishital/WeatherPackage.git
+
+SPEC CHECKSUMS:
+  WeatherPackage: 03791f00fb9bba53af90c7d2d14a5862baa8c9e5
+
+PODFILE CHECKSUM: df12637c50171754b7b14b3909424a59caeb7d1b
+
+COCOAPODS: 1.11.2

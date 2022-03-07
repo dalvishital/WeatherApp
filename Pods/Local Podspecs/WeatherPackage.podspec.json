@@ -1,0 +1,24 @@
+{
+  "name": "WeatherPackage",
+  "version": "0.0.1",
+  "summary": "Creating the bundle for accessing files and classes",
+  "description": "Chat App bundle framework",
+  "homepage": "https://github.com/dalvishital/WeatherPackage",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": "shital dalavi",
+  "platforms": {
+    "watchOS": "5.0",
+    "ios": "11.0"
+  },
+  "source": {
+    "git": "https://github.com/dalvishital/WeatherPackage.git",
+    "tag": "0.0.1"
+  },
+  "source_files": [
+    "WeatherPackage",
+    "WeatherPackage/**/*.{h,m,swift}"
+  ]
+}
